@@ -69,9 +69,9 @@ def greet_admin():
 # Please find a template html file named `greet.html` which takes `name` as parameter under `templates` folder 
 
 
-# @app.route('/<name>')
-# def greet(name):
-#     return render_template('greet.html', name=name)
+#@app.route('/<name>')
+#def greet(name):
+ #   return render_template('greet.html', name=name)
 
 
 
